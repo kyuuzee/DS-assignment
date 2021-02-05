@@ -1,0 +1,6 @@
+107       SeaSad                   890       03/12/2021          Pantry    
+300       Creo                     33        03/10/2020          Pantry    
+150       DaisyFresh               34        02/08/2000          Freezer   
+230       Tookies                  230       08/12/1999          Fridge    
+450       Xenoblade                122       31/12/2020          Freezer   
+145       Miho                     145       30/10/2020          Pantry    
